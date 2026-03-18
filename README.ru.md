@@ -71,6 +71,8 @@
 
 Небольшой сниппет моей активности здесь:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneKKTTme&show_icons=true&theme=catppuccin_latte)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneKKTTme&layout=compact&theme=catppuccin_latte)
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ![GitHub Snake](https://github.com/JaneKKTTme/JaneKKTTme/blob/output/github-contribution-grid-snake-dark.svg)
