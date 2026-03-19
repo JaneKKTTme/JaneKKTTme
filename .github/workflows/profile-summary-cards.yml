@@ -9,13 +9,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-cards
+    name: Generate Github Cards
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        uses: vn7n24fzkq/github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
         with:
