@@ -71,8 +71,10 @@
 
 Небольшой сниппет моей активности здесь:
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaneKKTTme&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaneKKTTme&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaneKKTTme&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaneKKTTme&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaneKKTTme&theme=gruvbox)
 
 ![GitHub Snake](https://github.com/JaneKKTTme/JaneKKTTme/blob/output/github-contribution-grid-snake-dark.svg)
